@@ -31,6 +31,6 @@ git clone https://github.com/Manual-To-Automation-Sky/Java-Lesson-3-Page-Object-
 ```
 * Move into the directory that you just cloned by typing
 ```sh
-cd Lesson-3-Page-Object-Model
+cd Java-Lesson-3-Page-Object-Model
 ```
 * To run your test, you can use the Run button in your IDE of choice or right click anywhere in your file and click Run.
